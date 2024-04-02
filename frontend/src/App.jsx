@@ -1,12 +1,18 @@
 
-import './App.css'
+
 
 function App() {
   
 
   return (
     <>
-    <h1 className='text-3x1 front-bold underline'>Hello world</h1>
+    <About/>
+    <Contact/>
+    <Footer></Footer>
+    <Hero></Hero>
+    <Navbar></Navbar>
+    <Skill></Skill>
+    <Work></Work>
     </>
   )
 }
